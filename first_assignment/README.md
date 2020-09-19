@@ -8,4 +8,4 @@ $ pip install timeit
 $ pip install numpy
 $ pip install scipy
 ```
-Now, you are ready to run the python code!
+Now, you are ready to run the "first.py" python code!
