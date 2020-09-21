@@ -8,6 +8,7 @@ More precisely, you’re given a *pattern length* *m ≤ n* and a *maximum dista
   
 For **example**, if the strand of DNA is *s* = “GATTACA”, the pattern length is *m* = 3 and the maximum distance is *k* = 1, then the best pattern is *t* = “ATA”, has 3 approximate occurrences, at indices 1 (“ATT”), 1 (“TTA”) and 4 (“ACA”). Note that, paradoxically, in this case, the best pattern does not appear *exactly* anywhere in the strand.
 
+- Hamming distance has been used.
 
 Check if the sys module is installed and now you are ready to run the "third.py" python code!
 
